@@ -1,2 +1,5 @@
 # Data_Mining_collections
-The repository collects the document of data mining using jupyter notebook with python. Source code and datasets are included.
+This repository is used to store data analysis files.
+The dataset have been included in this collections:
+* apartments: https://archive.ics.uci.edu/dataset/555/apartment+for+rent+classified
+* student_records: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
